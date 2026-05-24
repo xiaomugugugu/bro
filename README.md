@@ -1,5 +1,6 @@
 由于某人做贼心虚删除仓库，现在存档某酥在coding网暴仓库最精华的issue部分，欢迎热心网友提pr
 若有热心网友被某酥起诉，此仓库可用作为证据
+原readme在README_BRO.md
 
 
 <img width="864" height="1920" alt="13296517fc1cc3af0b53e419ce29d6f6" src="https://github.com/user-attachments/assets/adf8ee90-ef1b-4fed-b96e-0a14dd4fb4cc" />
